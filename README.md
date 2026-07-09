@@ -75,5 +75,5 @@ It helps the project grow and supports future updates.
 ---
 
 <p align="center">
-Made with ❤️ by <b>Ziya Software</b>
+Made with ❤️ by <b>DROXI</b>
 </p>

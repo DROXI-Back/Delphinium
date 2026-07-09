@@ -40,13 +40,14 @@
 1. Click the **Download Here** button.
 2. Download `Delphinium.zip`.
 3. Extract the ZIP file.
-4. Run `Delphinium.exe`.
+4. Run `VelocityLite.exe`.
 5. Enjoy! 🌸
 
 ---
 
 ## 📦 Download Information
 File: Delphinium.zip
+
 Size: 39.5 MB
 
 ---

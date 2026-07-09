@@ -46,3 +46,27 @@
 ---
 
 ## 📦 Download Information
+File: Delphinium.zip
+Size: 39.5 MB
+
+---
+
+## 🔄 Updates
+
+New versions and improvements will be released through GitHub Releases.
+
+---
+
+## ⭐ Support
+
+If you like Delphinium:
+
+- ⭐ Star this repository
+- 🐛 Report bugs
+- 💡 Suggest improvements
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>DROXI</b>
+</p>

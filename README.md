@@ -58,7 +58,7 @@ Size: 39.5 MB
 
 ## 🔄 Updates
 
-New versions and improvements will be released through GitHub Releases.
+New versions and improvements will Download Automatically.
 
 ---
 

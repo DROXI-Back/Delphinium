@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://delphinium-executor.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Website-Visit-8A2BE2?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
 ## ✨ Features
@@ -47,6 +53,14 @@
 
 ---
 
+## 🌐 Official Website
+
+Visit our website:
+
+🔗 https://delphinium-executor.vercel.app
+
+---
+
 ## 📦 Download Information
 
 
@@ -58,7 +72,7 @@ Size: 39.5 MB
 
 ## 🔄 Updates
 
-New versions and improvements will Download Automatically.
+New versions and improvements will be released through GitHub Releases.
 
 ---
 
